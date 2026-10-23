@@ -1,0 +1,15 @@
+# Tema y comportamiento de la interfaz (se aplica solo al correr: streamlit run app.py)
+ 
+[theme]
+base = "light"
+primaryColor = "#0B5CAD"            # azul industrial: botones, selecciones, enlaces
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F9"  # fondo de la barra lateral, tarjetas y tablas
+textColor = "#1E293B"
+font = "sans serif"
+ 
+[client]
+toolbarMode = "minimal"             # saca el menu de desarrollo y el boton Deploy
+ 
+[browser]
+gatherUsageStats = false            # no pregunta ni envia estadisticas

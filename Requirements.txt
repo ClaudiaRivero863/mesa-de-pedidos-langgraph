@@ -1,0 +1,17 @@
+# Dependencias directas del proyecto. Probado con Python 3.14.3 en Windows.
+# Las dos primeras son las versiones con las que se desarrollo; el resto se instala
+# en la version mas reciente compatible.
+langgraph==1.2.16
+langgraph-checkpoint-sqlite==3.1.2
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+rank_bm25
+pydantic
+python-dotenv
+pytest
+streamlit
