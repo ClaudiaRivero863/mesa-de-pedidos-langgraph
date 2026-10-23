@@ -1,6 +1,6 @@
-# Mesa de Pedidos — Desafío 1
+# Mesa de Pedidos — Desafío 
 
-**Diplomatura en IA Engineering · ICARO · UNC · FCEFyN** — Desafío post Clase 7 (LangGraph)
+**Diplomatura en IA Engineering · ICARO · UNC · FCEFyN** —  (LangGraph)
 
 Un grafo de LangGraph que procesa los mensajes que los clientes de Ferretería Industrial Andina mandan por WhatsApp o mail. Hace cuatro cosas:
 
